@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# vGame React App with RAWG API for a Course
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
